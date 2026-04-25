@@ -1,0 +1,14 @@
+All Rights Reserved
+
+© 2026 Harish J (Harish-2006) and Swarnalakshmi S (Swarna-2006)
+
+This project and all its contents, including but not limited to source code, design,
+structure, and documentation, are the intellectual property of the authors.
+
+No part of this project may be copied, reproduced, modified, distributed, published,
+or used in any form, either electronically or otherwise, without prior written
+permission from the authors.
+
+Unauthorized use of this project may result in legal action.
+
+For permissions or inquiries, please contact the authors directly.
