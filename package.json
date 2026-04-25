@@ -1,0 +1,25 @@
+{
+  "name": "space-shooter-game",
+  "version": "1.0.0",
+  "description": "Online multiplayer space shooter game using Node.js and Socket.IO",
+  "main": "server/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "keywords": [
+    "game",
+    "multiplayer",
+    "socket.io",
+    "nodejs",
+    "space-shooter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.8.1",
+    "uuid": "^13.0.0"
+  }
+}
